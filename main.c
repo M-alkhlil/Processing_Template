@@ -26,6 +26,12 @@ void game_init(void)
 void game_update(void)
 {
 	// check input, update simulation, render etc.
+
+	CP_Graphics_DrawCircle(200.0f, 200.0f, 50.0f);
+
+
+
+
 }
 
 // use CP_Engine_SetNextGameState to specify this function as the exit function
