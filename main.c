@@ -27,7 +27,7 @@ void game_update(void)
 {
 	// check input, update simulation, render etc.
 
-	CP_Graphics_DrawCircle(200.0f, 200.0f, 50.0f);
+	CP_Graphics_DrawCircle(150.0f, 150.0f, 50.0f);
 
 
 
