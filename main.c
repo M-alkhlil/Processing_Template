@@ -1,7 +1,7 @@
 //---------------------------------------------------------
 // file:	main.c
 // author:	[NAME]
-// email:	[ EMAIL ADDRESS]
+// email:	[ Please Enter EMAIL ADDRESS]
 //
 // brief:	Main entry point for the sample project
 //			of the CProcessing library
@@ -9,7 +9,7 @@
 // documentation link:
 // https://github.com/DigiPen-Faculty/CProcessing/wiki
 //
-// Copyright © 2020 DigiPen, All rights reserved.
+// Copyright Â© 2020 DigiPen, All rights reserved.
 //---------------------------------------------------------
 
 #include "cprocessing.h"
